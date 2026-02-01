@@ -1,5 +1,4 @@
-print("Welcome to the Quiz Game!")
-print("-------------------------")
+("Welcome to the Quiz Game!")
 
 score = 0
 
@@ -7,7 +6,7 @@ score = 0
 ("Q1: What is the capital of Pakistan?")
 ("a) Lahore")
 ("b) Karachi")
-print("c) Islamabad")
+("c) Islamabad")
 
 answer = input("Your answer: ")
 
