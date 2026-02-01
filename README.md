@@ -1,13 +1,12 @@
-first 
 print("Welcome to the Quiz Game!")
 print("-------------------------")
 
 score = 0
 
 # Question 1
-print("Q1: What is the capital of Pakistan?")
-print("a) Lahore")
-print("b) Karachi")
+("Q1: What is the capital of Pakistan?")
+("a) Lahore")
+("b) Karachi")
 print("c) Islamabad")
 
 answer = input("Your answer: ")
