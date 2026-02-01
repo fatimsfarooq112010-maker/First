@@ -1,12 +1,13 @@
-("Welcome to the Quiz Game!")
+print("Welcome to the Quiz Game!")
+print("-------------------------")
 
 score = 0
 
 # Question 1
-("Q1: What is the capital of Pakistan?")
-("a) Lahore")
-("b) Karachi")
-("c) Islamabad")
+print("Q1: What is the capital of Pakistan?")
+print("a) Lahore")
+print("b) Karachi")
+print("c) Islamabad")
 
 answer = input("Your answer: ")
 
